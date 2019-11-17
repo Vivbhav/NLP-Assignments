@@ -1,0 +1,152 @@
+Precision of ) = 1.0
+Recall of ) = 1.0
+F-Measure of ) = 1.0
+
+Precision of : = 0.5
+Recall of : = 0.5
+F-Measure of : = 0.5
+
+Precision of PRP = 0.5584415584415584
+Recall of PRP = 1.0
+F-Measure of PRP = 0.7166666666666666
+
+Precision of NN = 0.6194444444444445
+Recall of NN = 0.802158273381295
+F-Measure of NN = 0.6990595611285267
+
+Precision of ( = 1.0
+Recall of ( = 1.0
+F-Measure of ( = 1.0
+
+Precision of MD = 0.8
+Recall of MD = 1.0
+F-Measure of MD = 0.888888888888889
+
+Precision of PDT = 1.0
+Recall of PDT = 1.0
+F-Measure of PDT = 1.0
+
+Precision of DT = 0.6913183279742765
+Recall of DT = 0.9953703703703703
+F-Measure of DT = 0.8159392789373815
+
+Precision of VBD = 0.8170731707317073
+Recall of VBD = 0.8589743589743589
+F-Measure of VBD = 0.8374999999999999
+
+Precision of PRP$ = 1.0
+Recall of PRP$ = 1.0
+F-Measure of PRP$ = 1.0
+
+Precision of WP = 1.0
+Recall of WP = 1.0
+F-Measure of WP = 1.0
+
+F-Measure of RBR = 1.0
+
+Precision of VBZ = 1.0
+Recall of VBZ = 0.8181818181818182
+F-Measure of VBZ = 0.9
+
+Precision of WRB = 1.0
+Recall of WRB = 1.0
+F-Measure of WRB = 1.0
+
+Precision of WDT = 1.0
+Recall of WDT = 1.0
+F-Measure of WDT = 1.0
+
+Precision of RB = 0.8095238095238095
+Recall of RB = 0.8292682926829268
+F-Measure of RB = 0.8192771084337348
+
+Precision of RP = 1.0
+Recall of RP = 1.0
+F-Measure of RP = 1.0
+
+Precision of IN = 0.821875
+Recall of IN = 0.9924528301886792
+F-Measure of IN = 0.8991452991452992
+
+Precision of TO = 0.9833333333333333
+Recall of TO = 1.0
+F-Measure of TO = 0.9915966386554621
+
+Precision of CC = 0.98
+Recall of CC = 1.0
+F-Measure of CC = 0.98989898989899
+
+Precision of NNPS = 0.8
+Recall of NNPS = 1.0
+F-Measure of NNPS = 0.888888888888889
+
+Precision of JJS = 1.0
+Recall of JJS = 1.0
+F-Measure of JJS = 1.0
+
+Precision of EX = 1.0
+Recall of EX = 1.0
+F-Measure of EX = 1.0
+
+Precision of JJR = 1.0
+Recall of JJR = 1.0
+F-Measure of JJR = 1.0
+
+F-Measure of `` = 1.0
+
+Precision of VBP = 1.0
+Recall of VBP = 0.8636363636363636
+F-Measure of VBP = 0.9268292682926829
+
+Precision of '' = 1.0
+Recall of '' = 1.0
+F-Measure of '' = 1.0
+
+Precision of , = 0.863013698630137
+Recall of , = 1.0
+F-Measure of , = 0.9264705882352942
+
+Precision of VBN = 0.7794117647058824
+Recall of VBN = 0.7910447761194029
+F-Measure of VBN = 0.7851851851851852
+
+Precision of . = 1.0
+Recall of . = 1.0
+F-Measure of . = 1.0
+
+Precision of JJ = 0.7469135802469136
+Recall of JJ = 0.7423312883435583
+F-Measure of JJ = 0.7446153846153847
+
+Precision of VBG = 0.9523809523809523
+Recall of VBG = 0.5714285714285714
+F-Measure of VBG = 0.7142857142857142
+
+Precision of RBS = 1.0
+Recall of RBS = 1.0
+F-Measure of RBS = 1.0
+
+Precision of NNP = 0.7764705882352941
+Recall of NNP = 0.34554973821989526
+F-Measure of NNP = 0.4782608695652174
+
+Precision of CD = 0.9285714285714286
+Recall of CD = 0.7222222222222222
+F-Measure of CD = 0.8125000000000001
+
+Precision of NNS = 0.8378378378378378
+Recall of NNS = 0.5961538461538461
+F-Measure of NNS = 0.6966292134831461
+
+Precision of POS = 0.95
+Recall of POS = 1.0
+F-Measure of POS = 0.9743589743589743
+
+Precision of WP$ = 1.0
+Recall of WP$ = 1.0
+F-Measure of WP$ = 1.0
+
+Precision of VB = 0.8405797101449275
+Recall of VB = 0.9206349206349206
+F-Measure of VB = 0.8787878787878787
+

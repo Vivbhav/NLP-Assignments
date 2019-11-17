@@ -1,0 +1,41 @@
+Date--
+			DATE	. 	END
+	START 	IN 	DATE
+	NN	IN	DATE
+	IN	NNP	DATE
+	IN	DT	DATE
+			DATE	IN	DT
+			DATE	,
+
+Location --	
+	NN	IN	LOCATION
+		,	LOCATION	,		(doesnt appear anywhere else) too good a feature
+			LOCATION	IN	CD	(good accuracy - occurs rarely though)
+	IN	DT	LOCATION
+
+
+PERSON --	
+	NN	NN	PERSON
+		Mr. or Mrs.(word)	PERSON
+	NNP	NNP	Person
+	START	NNP	Person
+			Person		NN	VBD
+			Person		NNP	VBD
+
+MONEY --	
+			'$' word MONEY
+				MONEY	CD	CD
+		'$''	CD	MONEY
+
+ORGANIZATION --	
+		DT	NN	ORG
+		DT	NNP	ORG
+		NN	POS	ORG
+		DT	JJ	ORG
+
+PERCENT --	
+		CD	PERCENT		
+			PERCENT		percent(word) or '%' symbol
+
+TIME --	
+	RB	IN	TIME

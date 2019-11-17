@@ -1,0 +1,30 @@
+Motivation: The motivation of this assignment is to obtain probability distribution for each class of NER model. 
+Consider 7-class stanford NER model.
+
+Problem Statement : The goal of the assignment is to find probability distribution for each class of NER model 
+that is used in earlier assignmnet.Do certain observations to determine patterns (or context) information for each class.
+
+The Task: You need to use the Named Entity labelled corpus of earlier assignment and determine probability
+distribution for each class and pattern observed for each class.
+
+Output File: Probability distribution for each class. Pattern observed for each class
+
+ Submit the following:
+
+1)  Labeled corpus of all classes of form <named-entity>_class-label.  
+
+     Example: Input sentence of corpus: Ram is studying in College of Engineering Pune locatd in Pune.
+
+    Output file: NER_labelled_Corpus_MISNO.txt  
+
+     Ram_PER
+
+     College of Engineering Pune_ORG
+
+     Pune_LOC
+
+     2) Statistics of Probability Distribution for each class. File name: Stat_NER_MISNO.txt
+
+     3)  Patterns observed. File name:  Pattern_Classname_MISNO.txt
+
+          File name example: Pattern_PER_MISNO.txt, Pattern_ORG_MISNO.txt and so on...

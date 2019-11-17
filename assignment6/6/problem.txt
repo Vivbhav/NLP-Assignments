@@ -1,0 +1,42 @@
+Motivation: The motivation of this assignment is to get practice with sequence
+labeling tasks such as Named Entity Recognition. More precisely you will experiment with the
+CRF model and various features on a subset for a TEXT corpus
+
+Problem Statement: The goal of the assignment is to build an NER system for IDENTIFICATION of 7 
+named entity- Location, Person, Organization, Money, Percent, Date, Time. The input of the code will 
+be a set of tokenized sentences and the output will be a label for each token in the sentence. 
+Labels can be Location, Person, Organization, Money, Percent, Date, Time  signifying named entities.
+
+Training Data: the ouput of assignment 5a
+
+The Task: You need to write a sequence tagger that labels the given sentences in a  test file.
+
+Suggestion: You may have multiple features space before and after  the target word before giving final label to it i.e., context information.
+
+Perform switching off subsets of your features and see the degradation of performance.
+You can perform an alternative experiment by incrementally adding sets of features. 
+Either way the goal is to identify the most useful features (and the value of each feature) for this task. 
+In addition to quantitative results, also look at specific examples and try to qualitatively understand value of each feature 
+by noticing which examples each feature helps in.
+
+Output: NE labeled test file
+
+Submit the POS tagging  by  Saturday, 9th September 2018.
+
+2. Submit the code by Monday, 5th November 2018. Submit your code is in a .zip file named in the format <MISNo_Assign6>.zip. Make sure that when we run “unzip yourfile.zip” the following files are produced in the present working directory:
+•MISNO_Assign6_Code.py
+•run.sh
+•Writeup_MISNO_Assign6.pdf
+•Precision, Recall, F-measure for each category
+
+What is allowed? What is not?
+
+1. The assignment is to be done individually.
+
+2. You should use Python for this assignment.
+
+3. You must not discuss this assignment with anyone outside the class. 
+Make sure you mention the names in your write-up in case you discuss with anyone from within 
+the class outside your team. Follow the academic integrity carefully.
+
+4. Please do not search the Web for solutions to the problem.

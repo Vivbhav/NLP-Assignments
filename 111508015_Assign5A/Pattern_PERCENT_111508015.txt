@@ -1,0 +1,21 @@
+W(i - 2)	T(i - 2)	W(i - 1)	T(i - 1)	W(i + 1)	T(i + 1)	W(i + 2)	T(i + 2)
+cut	NN	emissions	NNS	percent	NN	by	IN
+emissions	NNS	50	CD	by	IN	generating	VBG
+-	:	to	TO	percent	NN	.	.
+to	TO	4.6	CD	.	.	*	END
+to	TO	hit	NN	percent	NN	.	.
+hit	NN	7.5	CD	.	.	*	END
+(	(	some	DT	%	NN	of	IN
+some	DT	30	CD	of	IN	the	DT
+rose	VBD	nearly	RB	percent	NN	on	IN
+nearly	RB	19	CD	on	IN	a	DT
+contractors	NNS	increased	VBN	percent	NN	in	IN
+increased	VBN	93	CD	in	IN	recent	JJ
+by	IN	almost	RB	percent	NN	.	.
+almost	RB	25	CD	.	.	*	END
+control	NN	of	IN	percent	NN	of	IN
+of	IN	30	CD	of	IN	the	DT
+compared	VBN	to	TO	percent	NN	on	IN
+to	TO	10	CD	on	IN	Friday	NNP
+will	MD	produce	NN	percent	NN	of	IN
+produce	NN	30	CD	of	IN	the	DT
